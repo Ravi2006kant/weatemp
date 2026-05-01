@@ -1,7 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:weatemp/loginScreen.dart';
+import 'package:task_manager/loginScreen.dart';
+
 
 class Introscreen extends StatefulWidget{
   const Introscreen({super.key});
