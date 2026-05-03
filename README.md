@@ -1,17 +1,14 @@
-# weatemp
+#Task Manager
 
-A new Flutter project.
+I have created a app named task manager where you can create task you want to perform or
+mark the special events based on personal preferences.
 
-## Getting Started
+When you open the app it will show a intro screen then a login page 
+Email - hello@gmail.com
+Pass - 1234 
+the following are the credentials to access the further screens -
+after this you are able to create a task 
+in the task screen you will see two options view task and add task 
+in the add task you are able to create tasks by you and assig a time as well
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is all about the app thanks you if you till here.. ❤️
